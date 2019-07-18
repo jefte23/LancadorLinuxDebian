@@ -1,0 +1,27 @@
+
+Criar Lançador e editar os comando
+sudo nano /usr/share/applications/STS.desktop
+
+
+[Desktop Entry]
+Name=SpringSource Tool Suite
+Comment=SpringSource Tool Suite
+Exec=/home/jefte/springsource/sts-3.4.0-RELEASE/STS
+Icon=/home/jefte/springsource/sts-3.4.0-RELEASE/icon.xpm
+StartupNotify=true
+Terminal=false
+Type=Application
+Categories=Development;IDE;Java;
+
+
+--------------------------------------
+
+[Desktop Entry]
+Name=SpringSource Tool Suite
+Comment=SpringSource Tool Suite
+Exec=/home/jefte/anaconda3/bin/anaconda-navigator
+Icon=/home/jefte/Imagens/lançador/icon.xpm
+StartupNotify=true
+Terminal=false
+Type=Application
+Categories=Development;IDE;Python;
