@@ -16,9 +16,11 @@ Categories=Development;IDE;Java;
 
 --------------------------------------
 
+sudo nano /usr/share/applications/ãnaconda-navigator.desktop
+
 [Desktop Entry]
-Name=SpringSource Tool Suite
-Comment=SpringSource Tool Suite
+Name=Anaconda-navigator
+Comment=Anaconda-navigator
 Exec=/home/jefte/anaconda3/bin/anaconda-navigator
 Icon=/home/jefte/Imagens/lançador/icon.xpm
 StartupNotify=true
